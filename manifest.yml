@@ -5,4 +5,4 @@ applications:
   routes:
   - route: u                                                           5
   env:
-    WELCOME_MESSAGE: Hi this is Shaunak! welcome to the PAL CI lab
+    WELCOME_MESSAGE: Hi this is Shaunak! welcome to the PAL CI lab test2
